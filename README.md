@@ -1,1 +1,1 @@
-# gitHub--explorer
+# gitHub-explorer
